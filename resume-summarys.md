@@ -22,3 +22,4 @@ Easily adapts to new languages
 
 Algorithms - taking an algorithmic approach
 Data structures
+Testing
